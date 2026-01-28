@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import WhapiSender from './whapisender';
 import './App.css';
 
